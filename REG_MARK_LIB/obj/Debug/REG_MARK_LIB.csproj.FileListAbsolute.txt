@@ -1,0 +1,11 @@
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\REG_MARK_LIB.pdb
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\MySql.Data.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\Google.Protobuf.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\Renci.SshNet.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\bin\Debug\MySql.Data.xml
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.CoreCompileInputs.cache
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.csproj.CopyComplete
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.dll
+C:\Users\Аластар\source\repos\worldskills\REG_MARK_LIB\obj\Debug\REG_MARK_LIB.pdb

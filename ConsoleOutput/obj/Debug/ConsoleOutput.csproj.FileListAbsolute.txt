@@ -1,0 +1,10 @@
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\obj\Debug\ConsoleOutput.csprojAssemblyReference.cache
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\obj\Debug\ConsoleOutput.csproj.CoreCompileInputs.cache
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\bin\Debug\ConsoleOutput.exe.config
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\bin\Debug\ConsoleOutput.exe
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\bin\Debug\ConsoleOutput.pdb
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\bin\Debug\REG_MARK_LIB.dll
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\bin\Debug\REG_MARK_LIB.pdb
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\obj\Debug\ConsoleOutput.csproj.CopyComplete
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\obj\Debug\ConsoleOutput.exe
+C:\Users\Аластар\source\repos\worldskills\ConsoleOutput\obj\Debug\ConsoleOutput.pdb
